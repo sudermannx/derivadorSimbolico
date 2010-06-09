@@ -1,0 +1,19 @@
+README
+
+Proyecto de la Materia de Estructuras de Datos: Derivador Simbolico .
+
+Instrucciones Generales:
+
+	$ make Proyecto
+
+		Compila y crea binarios optimizados para tu arquitectura, de el proyecto de Estructuras de Datos.
+
+	$ make cleanAll
+
+		 Limpia el entorno : Elimina  los archivos objeto almacenados en la carpeta ./temporales, tambien elimina el binario del proyecto
+		y otros archivo basura.
+
+
+
+	
+
